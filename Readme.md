@@ -3,3 +3,5 @@ The following Handouts has been created to be used during NESAC UAV OS Course. T
 
 # Learning Goals
 The learning goals has been defined to keep track of what you'll be doing/learning. If you faced any issues during and after the course, you may always write to me at ss.puyam@nesac.gov.in  for any technical assistance. 
+
+![alt text](https://github.com/courseuav/uavos/blob/master/IMG_0066.JPG)
